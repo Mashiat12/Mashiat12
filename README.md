@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Mashiat</h1>
+<h1 align="center">Hi there👋,It's me Mashiat</h1>
 <h3 align="center">Studying Computer Science & Engineering</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mashiat12&label=Profile%20views&color=0e75b6&style=flat" alt="mashiat12" /> </p>
 
