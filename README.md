@@ -4,8 +4,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mashiat12&show_icons=true&include_all_commits=true&theme=buefy&locale=en&layout=compact" alt="mashiat12" /></p> 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mashiat12&show_icons=true&bg_color=ffffff&locale=en" alt="mashiat12" /></p> 
-</br>
-</br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mashiat12&" alt="mashiat12" /></p>
 <h3 align="left">Accounts:</h3>
 <p align="left">
