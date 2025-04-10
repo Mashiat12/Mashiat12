@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mashiat12&label=Profile%20views&color=0e75b6&style=flat" alt="mashiat12" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mashiat12&show_icons=true&include_all_commits=true&theme=buefy&locale=en&layout=compact&card_width=500" alt="mashiat12" /></p> 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mashiat12&show_icons=true&bg_color=ffffff&locale=en&card_width=500" alt="mashiat12" /></p> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mashiat12&" alt="mashiat12" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mashiat12&show_icons=true&bg_color=ffffff&locale=en&card_width=500" alt="mashiat12" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Mashiat12" alt="mashiat12" /></p>
 
 <h3 align="left">Accounts:</h3>
 <p align="left">
